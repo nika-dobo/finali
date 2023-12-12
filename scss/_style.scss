@@ -1,0 +1,55 @@
+.h-1 {
+  @include mer;
+  .co1 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    width: 1240px;
+    height: 128px;
+    flex-shrink: 0;
+    .im1 {
+      width: 200px;
+      height: 35px;
+      object-fit: scale-down;
+    }
+    .se {
+      margin-left: 650px;
+      .ser {
+        justify-content: flex-end;
+        width: 16px;
+        height: 16px;
+        flex-shrink: 0;
+      }
+      .xa {
+        width: 192px;
+        height: 1px;
+        background: #777d59;
+        align-items: flex-end;
+      }
+    }
+    .emo {
+      display: flex;
+      padding: 10px 0px;
+      justify-content: center;
+      align-items: center;
+      gap: 24px;
+      .gu {
+        margin-left: 32px;
+        width: 16px;
+        height: 16px;
+        flex-shrink: 0;
+      }
+      .qq {
+        width: 32px;
+        height: 32px;
+      }
+      .ge {
+        width: 32px;
+        height: 32px;
+        padding: 6.5px 4.5px;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  }
+}
