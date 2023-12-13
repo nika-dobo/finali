@@ -53,3 +53,27 @@
     }
   }
 }
+.s-1 {
+  .rame {
+    display: flex;
+    .ps {
+      width: 1440px;
+      height: 840px;
+      flex-shrink: 0;
+    }
+  }
+}
+.f-1 {
+  display: flex;
+  .f-b-d {
+    background-color: #c9cbbd;
+    .d-m {
+      width: 257px;
+      height: 57px;
+      border: red solid;
+      .im2 {
+        object-fit: scale-down;
+      }
+    }
+  }
+}
