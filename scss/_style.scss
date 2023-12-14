@@ -1,207 +1,208 @@
 .h-1 {
-    .co1 {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        margin-top: 20px;
-        max-width: 1240px;
-        width: 100%;
-        margin: 0 auto;
-        height: 128px;
-        flex-shrink: 0;
-        .im1 {
-            width: 200px;
-            height: 35px;
-            object-fit: scale-down;
-        }
-        .se {
-            .ser {
-                justify-content: flex-end;
-                width: 16px;
-                height: 16px;
-                flex-shrink: 0;
-            }
-            .xa {
-                width: 192px;
-                height: 1px;
-                background: #777d59;
-                align-items: flex-end;
-            }
-        }
-        .emo {
-            display: flex;
-            padding: 10px 0px;
-            justify-content: center;
-            align-items: center;
-            gap: 24px;
-            .gu {
-                margin-left: 32px;
-                width: 16px;
-                height: 16px;
-                flex-shrink: 0;
-            }
-            .qq {
-                width: 32px;
-                height: 32px;
-            }
-            .ge {
-                width: 32px;
-                height: 32px;
-                padding: 6.5px 4.5px;
-                justify-content: center;
-                align-items: center;
-                color: gray;
-            }
-        }
+  .co1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    max-width: 1240px;
+    width: 100%;
+    margin: 0 auto;
+    height: 128px;
+    flex-shrink: 0;
+    .im1 {
+      width: 257px;
+      height: 57px;
+      object-fit: scale-down;
     }
+    .se {
+      .ser {
+        justify-content: flex-end;
+        width: 16px;
+        height: 16px;
+        flex-shrink: 0;
+      }
+      .xa {
+        width: 192px;
+        height: 1px;
+        background: #777d59;
+        align-items: flex-end;
+      }
+    }
+    .emo {
+      display: flex;
+      padding: 10px 0px;
+      justify-content: center;
+      align-items: center;
+      gap: 24px;
+      .gu {
+        margin-left: 32px;
+        width: 16px;
+        height: 16px;
+        flex-shrink: 0;
+      }
+      .qq {
+        width: 32px;
+        height: 32px;
+      }
+      .ge {
+        width: 32px;
+        height: 32px;
+        padding: 6.5px 4.5px;
+        justify-content: center;
+        align-items: center;
+        color: gray;
+      }
+    }
+  }
 }
 .s-1 {
-    .rame {
-        display: flex;
-        margin-bottom: 200px;
-        .ps {
-            width: 100%;
-            height: 840px;
-            flex-shrink: 0;
-        }
-    }
+  .rame {
+    display: flex;
+    margin-bottom: 200px;
+    width: 100%;
+    height: 840px;
+    background-image: url("../png/qwe.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-shrink: 0;
+  }
 }
 .f-1 {
-    .f-b-d {
-        display: flex;
-        justify-content: space-around;
-        width: 100%;
-        height: 320px;
-        flex-shrink: 0;
-        background-color: #c9cbbd;
-        .d-1 {
-            margin-top: 57px;
-            .im2 {
-                width: 257px;
-                height: 57px;
-                object-fit: scale-down;
-            }
-        }
-        .d-2 {
-            margin-top: 57px;
-            h3 {
-                width: 36px;
-                height: 24px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 16px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 22px; /* 137.5% */
-            }
-            .xz2 {
-                margin-bottom: 16px;
-                margin-top: 8px;
-                width: 68px;
-                height: 0.5px;
-                flex-shrink: 0;
-                background-color: black;
-            }
-            P {
-                width: 63px;
-                height: 18px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 12px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 18px; /* 150% */
-            }
-        }
-        .d-3 {
-            margin-top: 57px;
-            h3 {
-                width: 55px;
-                height: 24px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 16px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 22px; /* 137.5% */
-            }
-            .xz3 {
-                margin-bottom: 16px;
-                margin-top: 8px;
-                width: 104px;
-                height: 0.5px;
-                flex-shrink: 0;
-                background-color: black;
-            }
-            p {
-                width: 102px;
-                height: 18px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 12px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 18px; /* 150% */
-            }
-        }
-        .d-4 {
-            margin-top: 57px;
-            h3 {
-                width: 60px;
-                height: 24px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 16px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 22px; /* 137.5% */
-            }
-            .xz4 {
-                margin-bottom: 16px;
-                margin-top: 8px;
-                width: 80px;
-                height: 0.5px;
-                flex-shrink: 0;
-                background-color: #000;
-            }
-            p {
-                width: 78px;
-                height: 18px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 12px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 18px; /* 150% */
-            }
-        }
-        .d-5 {
-            margin-top: 57px;
-            h3 {
-                width: 72px;
-                height: 24px;
-                flex-shrink: 0;
-                color: var(--gray-gray-10, #0e1020);
-                font-family: Gilda Display;
-                font-size: 16px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 22px; /* 137.5% */
-            }
-            .xz5 {
-                margin-bottom: 16px;
-                margin-top: 8px;
-                width: 120px;
-                height: 0.5px;
-                flex-shrink: 0;
-                background-color: #000;
-            }
-        }
+  .f-b-d {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 320px;
+    flex-shrink: 0;
+    background-color: #c9cbbd;
+    .d-1 {
+      margin-top: 57px;
+      .im2 {
+        width: 257px;
+        height: 57px;
+        object-fit: scale-down;
+      }
     }
+    .d-2 {
+      margin-top: 57px;
+      h3 {
+        width: 36px;
+        height: 24px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; /* 137.5% */
+      }
+      .xz2 {
+        margin-bottom: 16px;
+        margin-top: 8px;
+        width: 68px;
+        height: 0.5px;
+        flex-shrink: 0;
+        background-color: black;
+      }
+      P {
+        width: 63px;
+        height: 18px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px; /* 150% */
+      }
+    }
+    .d-3 {
+      margin-top: 57px;
+      h3 {
+        width: 55px;
+        height: 24px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; /* 137.5% */
+      }
+      .xz3 {
+        margin-bottom: 16px;
+        margin-top: 8px;
+        width: 104px;
+        height: 0.5px;
+        flex-shrink: 0;
+        background-color: black;
+      }
+      p {
+        width: 102px;
+        height: 18px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px; /* 150% */
+      }
+    }
+    .d-4 {
+      margin-top: 57px;
+      h3 {
+        width: 60px;
+        height: 24px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; /* 137.5% */
+      }
+      .xz4 {
+        margin-bottom: 16px;
+        margin-top: 8px;
+        width: 80px;
+        height: 0.5px;
+        flex-shrink: 0;
+        background-color: #000;
+      }
+      p {
+        width: 78px;
+        height: 18px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px; /* 150% */
+      }
+    }
+    .d-5 {
+      margin-top: 57px;
+      h3 {
+        width: 72px;
+        height: 24px;
+        flex-shrink: 0;
+        color: var(--gray-gray-10, #0e1020);
+        font-family: Gilda Display;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; /* 137.5% */
+      }
+      .xz5 {
+        margin-bottom: 16px;
+        margin-top: 8px;
+        width: 120px;
+        height: 0.5px;
+        flex-shrink: 0;
+        background-color: #000;
+      }
+    }
+  }
 }
