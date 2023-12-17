@@ -207,6 +207,46 @@ a {
   flex-shrink: 0;
 }
 
+.s-2 .categori {
+  margin-left: 100px;
+  margin-bottom: 40px;
+  width: 397px;
+  height: 48px;
+  color: var(--Gray-Gray-10, #0e1020);
+  font-family: Gilda Display;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 48px; /* 120% */
+}
+.s-2 .con2 {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+.s-2 .con2 .CATEGORY-2 img {
+  width: 295px;
+  height: 360px;
+  flex-shrink: 0;
+}
+.s-2 .con3 {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+.s-2 .con3 .name {
+  color: var(--Gray-Gray-10, #0e1020);
+  font-family: Gilda Display;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px; /* 100% */
+}
+
 .f-1 .f-b-d {
   display: flex;
   justify-content: space-around;
