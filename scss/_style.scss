@@ -15,17 +15,18 @@
       object-fit: scale-down;
     }
     .se {
-      .ser {
-        margin-left: 175px;
-        width: 16px;
-        height: 16px;
+      display: flex;
+      width: 350px;
+      justify-content: space-between;
+      .home {
+        margin-left: 10px;
         flex-shrink: 0;
+        color: #0e1020;
       }
-      .xa {
-        width: 192px;
-        height: 1px;
-        background: #777d59;
-        align-items: flex-end;
+
+      .game {
+        flex-shrink: 0;
+        color: #0e1020;
       }
     }
     .emo {
