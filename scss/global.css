@@ -268,7 +268,6 @@ a {
 
 .s-3 {
   margin-top: 104px;
-  margin-bottom: 94px;
   width: 100%;
   height: 840px;
   background-image: url("../png/godfall.jpg");
@@ -296,6 +295,9 @@ a {
   line-height: 24px; /* 150% */
 }
 
+.s-4 {
+  margin-top: 94px;
+}
 .s-4 .con6 {
   max-width: 1440px;
   width: 100%;
@@ -456,7 +458,7 @@ a {
   margin-bottom: 72px;
   display: flex;
 }
-.s-5 .con7 .gen img {
+.s-5 .con7 .myim img {
   width: 820px;
   height: 546px;
 }
@@ -488,150 +490,6 @@ a {
   border-radius: 5px;
 }
 .s-5 .con7 .myph .shop .buy {
-  padding: 12px 129px;
-  color: #ffffff;
-  font-family: Gilda Display;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-}
-
-.s-6 .con8 {
-  max-width: 1440px;
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 72px;
-  display: flex;
-}
-.s-6 .con8 .cs img {
-  width: 820px;
-  height: 546px;
-}
-.s-6 .con8 .myph h2 {
-  margin-left: 63px;
-  color: var(--Primary-Primary-10, #35b0fc);
-  font-family: Gilda Display;
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 40px; /* 125% */
-}
-.s-6 .con8 .myph p {
-  margin-top: 102px;
-  margin-left: 63px;
-  display: flex;
-  color: var(--Gray-Gray-10, #0e1020);
-  font-family: Gilda Display;
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 20px; /* 166.667% */
-}
-.s-6 .con8 .myph .shop {
-  margin-left: 63px;
-  width: 356px;
-  height: 48px;
-  background: #777d59;
-  border-radius: 5px;
-}
-.s-6 .con8 .myph .shop .buy {
-  padding: 12px 129px;
-  color: #ffffff;
-  font-family: Gilda Display;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-}
-
-.s-7 .con9 {
-  max-width: 1440px;
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 72px;
-  display: flex;
-}
-.s-7 .con9 .kombat img {
-  width: 820px;
-  height: 546px;
-}
-.s-7 .con9 .myph h2 {
-  margin-left: 63px;
-  color: var(--Primary-Primary-10, #35b0fc);
-  font-family: Gilda Display;
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 40px; /* 125% */
-}
-.s-7 .con9 .myph p {
-  margin-top: 102px;
-  margin-left: 63px;
-  display: flex;
-  color: var(--Gray-Gray-10, #0e1020);
-  font-family: Gilda Display;
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 20px; /* 166.667% */
-}
-.s-7 .con9 .myph .shop {
-  margin-left: 63px;
-  width: 356px;
-  height: 48px;
-  background: #777d59;
-  border-radius: 5px;
-}
-.s-7 .con9 .myph .shop .buy {
-  padding: 12px 129px;
-  color: #ffffff;
-  font-family: Gilda Display;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-}
-
-.s-8 .con10 {
-  max-width: 1440px;
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 72px;
-  display: flex;
-}
-.s-8 .con10 .pas img {
-  width: 820px;
-  height: 546px;
-}
-.s-8 .con10 .myph h2 {
-  margin-left: 63px;
-  color: var(--Primary-Primary-10, #35b0fc);
-  font-family: Gilda Display;
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 40px; /* 125% */
-}
-.s-8 .con10 .myph p {
-  margin-top: 102px;
-  margin-left: 63px;
-  display: flex;
-  color: var(--Gray-Gray-10, #0e1020);
-  font-family: Gilda Display;
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 20px; /* 166.667% */
-}
-.s-8 .con10 .myph .shop {
-  margin-left: 63px;
-  width: 356px;
-  height: 48px;
-  background: #777d59;
-  border-radius: 5px;
-}
-.s-8 .con10 .myph .shop .buy {
   padding: 12px 129px;
   color: #ffffff;
   font-family: Gilda Display;
